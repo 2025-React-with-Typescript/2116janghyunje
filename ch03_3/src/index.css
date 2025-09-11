@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+.material-icons {
+font-family: 'Material Icons';
+display: inline-block;
+}
+
+.material-icons {
+font-family: 'Material Icons';
+display: inline-block;
+}
